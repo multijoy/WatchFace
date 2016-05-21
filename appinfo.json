@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rich@multijoy.co.uk",
+    "enableMultiJS": true,
+    "longName": "Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "1167b5f7-0edd-494e-8461-37c26ca1c3d5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
