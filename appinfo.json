@@ -8,7 +8,14 @@
     "longName": "Watchface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/inconsolata_bold_ttf",
+                "name": "FONT_KEY_INCONSOLATA_BOLD_42",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Watchface",
